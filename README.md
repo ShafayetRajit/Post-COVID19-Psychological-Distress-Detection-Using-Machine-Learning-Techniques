@@ -1,1 +1,1 @@
-# Post-COVID19-Psychological-Distress-Detection-Using-Machine-Learning-Techniques
+# Post COVID-19 Psychological Distress Detection Using Machine Learning Techniques
